@@ -1,6 +1,6 @@
 # A-Pocket - 基于全志A133的掌上终端
 
-![渲染.5.5](E:\Linux\A-Pocket\README.assets\渲染.5.5.png)
+![渲染.5.5](https://github.com/Forairaaaaa/A-Pocket/blob/main/README.assets/%E6%B8%B2%E6%9F%93.5.5.png?raw=true)
 
 视频介绍：[【开源】 自 制 手 机 ：【一】PDA？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11t4y1W7DJ#reply114174036736)
 
